@@ -10,7 +10,7 @@ Thinkful student project. Online Library that can be used to track books.
 #
 ## SCREENSHOTS
 
-### Homne Page 
+### Home Page 
 - The home page displays general stats about the library and stats that pertain to different aspects of the books such as genre and authors
 ![Home Page](https://user-images.githubusercontent.com/79054830/137143616-97030a6a-52b5-4250-9db4-150504d3d34f.png)
 
