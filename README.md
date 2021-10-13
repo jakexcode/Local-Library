@@ -18,6 +18,6 @@ Thinkful student project. Online Library that can be used to track books.
 ![Stats By Book](https://user-images.githubusercontent.com/79054830/137138136-5c0a02c2-29b9-418b-ba2c-41d6a22a03e1.png)
 
 ### Stats By Account
-- The account page shows information that pertains to the specific account such as how many books have been borrowed and whether or not they have returned them
+- The account page shows information that pertains to the specific account such as how many books have been borrowed and what books they currently have in their possession
 ![Stats By Account](https://user-images.githubusercontent.com/79054830/137138543-3b64f8ae-d39e-4f62-8ba7-cf29b728fb8d.png)
 
